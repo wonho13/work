@@ -1,1 +1,6 @@
-<summary><details>toggle</details>test</summary>
+<details>
+    <summary>
+    toggle
+    </summary>
+  test
+</details>
